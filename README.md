@@ -7,7 +7,7 @@ Front end collision, both airbags popped.
 ![Miata in the tow yard 2](/Images/Yard%202.jpg)
 ![Miata in the tow yard 3](/Images/Yard%203.jpg)
 
-
+Minor damage to the front of the engine. No damage to the steering 
 ![broken bits](/Images/Broke.jpg)
 ![more broken bits](/Images/Crunched.jpg)
 
