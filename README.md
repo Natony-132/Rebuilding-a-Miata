@@ -14,7 +14,7 @@ Front end collision, both airbags popped.
 Some of the new parts. 
 ![new parts](/Images/New%20parts.jpg)
 Carefully trim new parts and cut old parts. 
-![Fit check 1](/Images/Fit%20check.jpg)
+![Fit check 1](/Images/image.jpg)
 Tack weld things in place. 
 ![tack welding in place](/Images/Tack%20welding%20the%20front.jpg)
 Panel fit check.
